@@ -1,0 +1,60 @@
+# 📊 Sales Performance Dashboard – Power BI
+
+## 📌 Project Overview
+This project is an interactive **Sales Performance Dashboard** built using **Microsoft Power BI**.  
+The dashboard provides meaningful insights into sales trends, revenue performance, and key business metrics to support data-driven decision-making.
+
+---
+
+## 🎯 Objectives
+- Analyze overall sales performance  
+- Identify top-performing products and categories  
+- Track revenue trends over time  
+- Support business decisions using visual insights  
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Microsoft Power BI**
+- **Power Query** – Data cleaning & transformation
+- **DAX (Data Analysis Expressions)** – Calculated measures & KPIs
+- **Data Visualization** – Charts, cards, slicers, and tables
+
+---
+
+## 📊 Key Features
+- 📈 Sales trends analysis  
+- 🧾 Total revenue, profit, and sales KPIs  
+- 🏆 Top-performing products and regions  
+- 🔍 Interactive slicers for dynamic filtering  
+- 📅 Time-based analysis (monthly / yearly)
+
+---
+
+## 📂 File Information
+- `sales.pbix` – Power BI dashboard file
+
+---
+
+## 🚀 How to Use
+1. Download the repository or clone it  
+2. Open `sales.pbix` using **Microsoft Power BI Desktop**  
+3. Interact with filters and visuals to explore insights  
+
+---
+
+
+---
+
+## 📈 Learning Outcomes
+- Hands-on experience with Power BI  
+- Practical use of DAX measures  
+- Improved data visualization and storytelling skills  
+
+---
+
+## 👤 Author
+**Mohamed Danish**  
+📌 Aspiring Data Analyst | Power BI | SQL | Excel  
+
+🔗 Feel free to connect with me on LinkedIn
